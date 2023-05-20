@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\bin\Debug\net6.0\lastMoment.exe
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\bin\Debug\net6.0\lastMoment.deps.json
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\bin\Debug\net6.0\lastMoment.runtimeconfig.json
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\bin\Debug\net6.0\lastMoment.dll
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\bin\Debug\net6.0\lastMoment.pdb
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.AssemblyInfo.cs
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.dll
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\refint\lastMoment.dll
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.pdb
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\lastMoment.genruntimeconfig.cache
+C:\Users\User\Desktop\seminarC#\seminar_5\lastMoment\obj\Debug\net6.0\ref\lastMoment.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.AssemblyInfo.cs
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\bin\Debug\net6.0\task030.exe
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\bin\Debug\net6.0\task030.deps.json
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\bin\Debug\net6.0\task030.runtimeconfig.json
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\bin\Debug\net6.0\task030.dll
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\bin\Debug\net6.0\task030.pdb
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.dll
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\refint\task030.dll
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.pdb
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\task030.genruntimeconfig.cache
+C:\Users\User\Desktop\seminarC#\seminar_4\task030\obj\Debug\net6.0\ref\task030.dll
